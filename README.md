@@ -1,4 +1,4 @@
-# Slim Simulator
+# Slime Simulator
 
 Lightweight pixel grid sandbox with pan/zoom, drawing tools, selection, and jiggly soft-body physics.
 
